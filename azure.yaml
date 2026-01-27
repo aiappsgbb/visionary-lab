@@ -2,7 +2,7 @@
 
 name: visionary-lab
 metadata:
-  template: visionary-lab@0.0.1-beta
+  template: visionary-lab@1.0.0
 services:
   backend:
     project: .
