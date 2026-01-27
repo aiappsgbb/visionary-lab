@@ -3,11 +3,27 @@
   "description": "",
   "maturity": "Bronze",
   "region": "AMER",
-  "industry": "",
+  "industry": "Cross",
   "owner": "alisoliman",
-  "pattern": [],
-  "services": [],
-  "tags": [],
+  "pattern": [
+    "AI/ML",
+    "Application Innovation",
+    "Cloud Native"
+  ],
+  "services": [
+    "Azure OpenAI",
+    "Azure Container Apps",
+    "Azure Cosmos DB",
+    "Azure Storage"
+  ],
+  "tags": [
+    "visionary-lab",
+    "image generation",
+    "rcg",
+    "video generation",
+    "sora",
+    "image-1"
+  ],
   "version": "1.0.0",
   "createdDate": "2026-01-27",
   "lastUpdated": "2026-01-27",
@@ -18,7 +34,7 @@
   },
   "documentation": {
     "readme": "https://github.com/Azure-Samples/visionary-lab/blob/main/README.md",
-    "architecture": "",
+    "architecture": "https://microsofteur-my.sharepoint.com/:i:/g/personal/mbeutter_microsoft_com/IQBZz9JgWNxKQr2pVSO4RVigAQR7mEVp4YvcRGB3Ru7YZQ0?e=ndAl3K",
     "demo": ""
   },
   "contacts": {
