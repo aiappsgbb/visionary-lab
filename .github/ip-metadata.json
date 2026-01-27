@@ -1,0 +1,32 @@
+{
+  "name": "Visionary Lab",
+  "description": "",
+  "maturity": "Bronze",
+  "region": "AMER",
+  "industry": "",
+  "owner": "alisoliman",
+  "pattern": [],
+  "services": [],
+  "tags": [],
+  "version": "1.0.0",
+  "createdDate": "2026-01-27",
+  "lastUpdated": "2026-01-27",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/aiappsgbb/visionary-lab",
+    "branch": "main"
+  },
+  "documentation": {
+    "readme": "https://github.com/Azure-Samples/visionary-lab/blob/main/README.md",
+    "architecture": "",
+    "demo": ""
+  },
+  "contacts": {
+    "technical": [
+      "alisoliman"
+    ],
+    "business": [
+      "alisoliman"
+    ]
+  }
+}
